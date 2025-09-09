@@ -1,2 +1,2 @@
-# canvas-bubble-animate
-Simple bubble animation with canvas element. Fun and feel the animation
+# canvas
+A simple bubble animation built with the <canvas> element—light, fun, and visually engaging.
